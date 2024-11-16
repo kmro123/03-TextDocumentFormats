@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportList>
+    <transport type="Car" fuel="Petrol">
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <capacity>5</capacity>
+        <description>Auto do dłuższych podróży</description>
+    </transport>
+    <transport type="Bicycle" fuel="None">
+        <brand>Giant</brand>
+        <model>Escape 3</model>
+        <capacity>1</capacity>
+        <description>Rower do szybkiego pokonywania któtszych tras</description>
+    </transport>
+    <transport type="Bus" fuel="Diesel">
+        <brand>Mercedes-Benz</brand>
+        <model>Citaro</model>
+        <capacity>50</capacity>
+        <description>Publiczny środek transportu używany do przemiszczania się po mieście</description>
+    </transport>
+</transportList>

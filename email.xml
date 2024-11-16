@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+        <name>XYZ</name>
+        <emailAdress>randomemail@gmail.com</emailAdress>
+    </sender>
+    <recipient>
+        <name>ABC</name>
+        <emailAdress>ABC@gmail.com</emailAdress>
+    </recipient>
+    <subject>Some text</subject>
+    <body>
+    The correct content of the email
+    </body>
+</email>
