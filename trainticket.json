@@ -1,0 +1,10 @@
+{
+    "numer_biletu": "AB123456789",
+    "dane_pasażera": "John Doe",
+    "startowy_przystanek": "New York Penn Station",
+    "końcowy_przystanek": "Boston South Station",
+    "odjazd": "2024-11-20T08:30:00",
+    "numer_siedzenia": 22,
+    "klasa_biletu": "First Class",
+    "cena": 120.50    
+  }

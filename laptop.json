@@ -1,0 +1,10 @@
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"],
+    "weight": "1,5kg",
+    "isGaming": false,
+    "costs": 1500
+    }
